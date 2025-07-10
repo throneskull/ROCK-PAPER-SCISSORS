@@ -1,0 +1,19 @@
+body{
+    background-image: 'download.jpg';
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    text-shadow: black;
+    color: forestgreen;
+}
+
+p{
+    color: beige;
+}
+
+h1:hover{
+    color: green;
+    cursor: pointer;
+}
